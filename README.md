@@ -56,6 +56,10 @@ Warsaw, Poland, 11.-19.09.2027
   Freising, Germany, 12.-13.03.2026  
   *SmartForest 2025 schafft den Raum, in dem Wissenschaft und Praxis gemeinsam Lösungen für eine digitalisierte, innovative, nachhaltige und klimaangepasste Waldbewirtschaftung entwickeln.*
 
+- **[GEOINFO 2026 - XXVI Brazilian Symposium on Geoinformatics](https://geoinfobr.github.io/)**  
+  São José dos Campos, Brazil, 07.-09.12.2026  
+  *Advancement in Geoinformatics, Remote Sensing, Spatial Data Science and Applications.*
+
 
 ### 2025
 
