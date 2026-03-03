@@ -16,6 +16,10 @@ Warsaw, Poland, 11.-19.09.2027
 
 ### 2026
 
+- **[GEOINFO 2026 - XXVI Brazilian Symposium on Geoinformatics](https://geoinfobr.github.io/)**  
+  São José dos Campos, Brazil, 07.-09.12.2026  
+  *Advancement in Geoinformatics, Remote Sensing, Spatial Data Science and Applications.*
+
 - **[OEMC Global Workshop 2026](https://earthmonitor.org/global-workshop-2026/)**  
   Barcelona, Spain, 07.-09.10.2026  
   *Next-Generation EO & GeoAI Built on Openness and Distributed Data*
@@ -55,10 +59,6 @@ Warsaw, Poland, 11.-19.09.2027
 - **[SmartForest 2026](https://smartforest.ai/)**  
   Freising, Germany, 12.-13.03.2026  
   *SmartForest 2025 schafft den Raum, in dem Wissenschaft und Praxis gemeinsam Lösungen für eine digitalisierte, innovative, nachhaltige und klimaangepasste Waldbewirtschaftung entwickeln.*
-
-- **[GEOINFO 2026 - XXVI Brazilian Symposium on Geoinformatics](https://geoinfobr.github.io/)**  
-  São José dos Campos, Brazil, 07.-09.12.2026  
-  *Advancement in Geoinformatics, Remote Sensing, Spatial Data Science and Applications.*
 
 
 ### 2025
