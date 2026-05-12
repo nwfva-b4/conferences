@@ -23,6 +23,10 @@ Warsaw, Poland, 11.-19.09.2027
 - **[OEMC Global Workshop 2026](https://earthmonitor.org/global-workshop-2026/)**  
   Barcelona, Spain, 07.-09.10.2026  
   *Next-Generation EO & GeoAI Built on Openness and Distributed Data*
+
+- **[Meeting of the Remote Sensing Working Group of the DGfG](https://arbeitskreis-fernerkundung.de/2026-treffen-des-arbeitskreises-fernerkundung-in-braunschweig/)**  
+  Brunswick, Germany, 07.-08.10.2026  
+  *Earth Observation and Environmental Data for Society, Policy, and Sustainable Land Use*
   
 - **[45th EARSeL Symposium](https://athens2026.earsel.org/)**  
   Athens, Greece, 29.09.-02.10.2026  
@@ -33,8 +37,12 @@ Warsaw, Poland, 11.-19.09.2027
     - Towards predictive forest models through remotely sensed data
  
 - **[GfÖ annual conference](https://nordicsocietyoikos.glueup.com/event/nordic-oikos-2026-135623/)**  
-    Odense, Denmark, 13.-17.09.2026 
+    Odense, Denmark, 13.-17.09.2026  
     *Integrating the Diversity of Ecology*
+
+- **[ICERS 2026](https://alcar.geof.hr/icers-conference/#tab-21951)**  
+    Zagreb, Croatia, 01.-03.07.2026  
+    *ICERS serves as a unique meeting point for sharing the latest advancements and applied solutions in the fields of remote sensing and GIS, offering fresh perspectives on addressing complex environmental challenges. Special emphasis will be placed on geospatial solutions for climate change, sustainable development, and effective resource management.*
  
 - **[BE20 - Emerging Topics in Long-Term and Large-Scale Biodiversity Research](https://www.biodiversity-exploratories.de/de/be20/)**  
     Berlin, Germany, 08.-12.06.2026  
