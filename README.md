@@ -6,7 +6,7 @@ List of selected events (conferences, workshops, etc.) related to forest science
 ### 2027
 
 - **[SilviLaser](https://silvilaser.com/)**  
-Warsaw, Poland, 11.-19.09.2027  
+Warsaw, Poland, 13.-17.09.2027  
 *Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*
 
 - **[IUFRO All-Division 4 Conference](https://naturalresources.tennessee.edu/beyond-stability-forest-assessment-modelling-and-management-for-an-uncertain-future/)**  
