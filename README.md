@@ -9,6 +9,10 @@ List of selected events (conferences, workshops, etc.) related to forest science
 Warsaw, Poland, 13.-17.09.2027  
 *Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*
 
+- **[46th EARSeL Symposium](https://symposium.earsel.org/46th-symposium-Turin/)**  
+  Turin, Italy, 01.-04.06.2027  
+  *Advancing the Science and Applications of Remote Sensing for a Sustainable Future*  
+
 - **[IUFRO All-Division 4 Conference](https://naturalresources.tennessee.edu/beyond-stability-forest-assessment-modelling-and-management-for-an-uncertain-future/)**  
 Göttingen, Germany, 24.-27.05.2027  
 *Beyond Stability: Forest Assessment, Modelling and Management for an Uncertain Future*  
@@ -24,6 +28,10 @@ Göttingen, Germany, 24.-27.05.2027
 - **[SmartForest](https://smartforest.ai/)**  
   Freising, Germany, 17.-19.03.2027  
   *Come together and find solutions that will make forestry more digital, innovative, sustainable, and climate adjusted*
+
+  - **[FOSSGIS 2027](https://fossgis-konferenz.de/2027/)**  
+  Heidelberg, Germany, 09.-13.03.2026  
+  *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*
 
 ### 2026
 
