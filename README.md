@@ -22,7 +22,7 @@ Göttingen, Germany, 24.-27.05.2027
   *a week of scientific exchange, collaboration, and discovery across all fields of the earth, planetary, and space sciences*
 
 - **[SmartForest](https://smartforest.ai/)**  
-  Freising, Germany, 06.-09.04.2027  
+  Freising, Germany, 17.-19.03.2027  
   *Come together and find solutions that will make forestry more digital, innovative, sustainable, and climate adjusted*
 
 ### 2026
