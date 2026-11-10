@@ -6,32 +6,39 @@ List of selected events (conferences, workshops, etc.) related to forest science
 ### 2027
 
 - **[SilviLaser](https://silvilaser.com/)**  
-Warsaw, Poland, 13.-17.09.2027  
-*Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*
+  Warsaw, Poland, 13.-17.09.2027  
+  *Conference on the applications of lidar and related technologies for assessing and managing forest ecosystems*  
+  Abstract deadline: 31.01.2027
 
 - **[46th EARSeL Symposium](https://symposium.earsel.org/46th-symposium-Turin/)**  
   Turin, Italy, 01.-04.06.2027  
   *Advancing the Science and Applications of Remote Sensing for a Sustainable Future*  
+  Abstract deadline: 30.11.2026
 
 - **[IUFRO All-Division 4 Conference](https://naturalresources.tennessee.edu/beyond-stability-forest-assessment-modelling-and-management-for-an-uncertain-future/)**  
-Göttingen, Germany, 24.-27.05.2027  
-*Beyond Stability: Forest Assessment, Modelling and Management for an Uncertain Future*  
+  Göttingen, Germany, 24.-27.05.2027  
+  *Beyond Stability: Forest Assessment, Modelling and Management for an Uncertain Future*  
+  Abstract deadline: 15.11.2026
 
 - **[The 60th Photogrammetric Week](https://phowo.ifp.uni-stuttgart.de/)**  
   Stuttgart, Germany, 06.-09.04.2027  
-  *Advancement in Photogrammetry, Remote Sensing and Geoinformatics.*
+  *Advancement in Photogrammetry, Remote Sensing and Geoinformatics.*  
+  No call for abstracts (registration open)
 
 - **[EGU27](https://www.egu27.eu/)**  
   Vienna, Austria, 04.-09.04.2027  
-  *a week of scientific exchange, collaboration, and discovery across all fields of the earth, planetary, and space sciences*
+  *a week of scientific exchange, collaboration, and discovery across all fields of the earth, planetary, and space sciences*  
+  Abstract deadline: 12.01.2027, 13:00 CET
 
 - **[SmartForest](https://smartforest.ai/)**  
   Freising, Germany, 17.-19.03.2027  
-  *Come together and find solutions that will make forestry more digital, innovative, sustainable, and climate adjusted*
+  *Come together and find solutions that will make forestry more digital, innovative, sustainable, and climate adjusted*  
+  Abstract deadline: 20.12.2026
 
 - **[FOSSGIS 2027](https://fossgis-konferenz.de/2027/)**  
- Heidelberg, Germany, 09.-13.03.2026  
- *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*
+  Heidelberg, Germany, 09.-13.03.2027  
+  *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*  
+  Abstract deadline: 01.11.2026
 
 ### 2026
 
