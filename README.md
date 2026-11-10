@@ -17,6 +17,9 @@ Göttingen, Germany, 24.-27.05.2027
   Stuttgart, Germany, 06.-09.04.2027  
   *Advancement in Photogrammetry, Remote Sensing and Geoinformatics.*
 
+- **[SmartForest](https://smartforest.ai/)**  
+  Freising, Germany, 06.-09.04.2027  
+  *Come together and find solutions that will make forestry more digital, innovative, sustainable, and climate adjusted*
 
 ### 2026
 
