@@ -29,9 +29,9 @@ Göttingen, Germany, 24.-27.05.2027
   Freising, Germany, 17.-19.03.2027  
   *Come together and find solutions that will make forestry more digital, innovative, sustainable, and climate adjusted*
 
-  - **[FOSSGIS 2027](https://fossgis-konferenz.de/2027/)**  
-  Heidelberg, Germany, 09.-13.03.2026  
-  *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*
+- **[FOSSGIS 2027](https://fossgis-konferenz.de/2027/)**  
+ Heidelberg, Germany, 09.-13.03.2026  
+ *Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.*
 
 ### 2026
 
